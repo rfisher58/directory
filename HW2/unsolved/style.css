@@ -1,0 +1,32 @@
+.button {
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    color: white;
+}
+
+
+ .bar{
+    background-color: black;
+    height: 100vh;
+} 
+
+.list{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    padding: 0;
+    padding-top: 150px;
+}
+
+.who{
+    text-decoration: none;
+    list-style-type: none;
+    background-color: white;
+    border-color: black;
+    margin: 20px;
+    margin-top: 50px;
+}
+
+
+ 
